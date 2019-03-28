@@ -9,3 +9,7 @@
  http://www.gnu.org/software/libc/manual/html_node/File-Attributes.html
 
  http://www.hep.wisc.edu/~pinghc/generate_your_own_library.htm
+
+ command to execute code is : 
+ 	g++ main.cpp mySTL.cpp
+ 	./a.out
